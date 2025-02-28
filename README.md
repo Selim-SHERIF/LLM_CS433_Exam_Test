@@ -76,7 +76,7 @@ Minor discrepancies might exist due to manual processing. Please reach out if yo
   - [ChatGPT Machine Learning Chatbot](https://chatgpt.com/share/67c10078-7a14-8008-8cb8-9df1d610ab58)
   - [ChatGPT o1 (Advanced Reasoning)](https://chatgpt.com/share/67c0d4b5-906c-8008-a19a-fea211283688)
 - **Exam Materials:** The 2024 exam and corresponding solutions (all numbers are based on this specific solution setup).
-- **Deepseek Answers:** Collected separately, as the chat format differs from OpenAI's.
+- **Deepseek Answers:** Collected separately, as the chat format differs from OpenAI's and cannot be easily shared.
 - **Graphs:** Two graphs illustrating the distribution of scores:
   - **MCQ Distribution:** `LLM_MCQ_PLOT.png`
   - **True/False Distribution:** `LLM_TF_PLOT.png`
