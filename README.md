@@ -88,11 +88,11 @@ Minor discrepancies might exist due to manual processing. Please reach out if yo
 One particularly interesting result was the distribution of correct answers across questions. For example, several models struggled with **Question 15** and **Question 17**:
 
 <p align="center">
-  <img src="LLM_TF_PLOT.png" alt="True/False Distribution Plot" width="300">
+  <img src="LLM_TF_PLOT.png" alt="True/False Distribution Plot" width="500">
 </p>
 
 <p align="center">
-  <img src="LLM_MCQ_PLOT.png" alt="MCQ Distribution Plot" width="300">
+  <img src="LLM_MCQ_PLOT.png" alt="MCQ Distribution Plot" width="500">
 </p>
 
 ![Example of Question 15](Question_15.png)
