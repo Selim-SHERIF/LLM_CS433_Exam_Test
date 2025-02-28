@@ -26,8 +26,6 @@ Only the **Multiple-Choice (MCQ)** and **True/False (TF)** sections were evaluat
 - **True/False:** 1.5 points each
 - **Negative Marking:** None
 
-This results in a total of 24 MCQs and 12 TF questions (total of 24×2 + 12×1.5 = 66 points).
-
 ### Questions Omitted
 
 Certain questions were excluded from the analysis:
@@ -35,6 +33,8 @@ Certain questions were excluded from the analysis:
 - **Question 20:** Omitted due to reliance on schematics that many LLMs cannot process.
 - **Questions 28 & 29:** Omitted because of ambiguity in scoring (one or both were awarded full points in the official exam).
 - **Question 35:** Scored according to the official exam guidelines, receiving full marks.
+
+This results in a total of 24 MCQs and 12 TF questions (total of 24×2 + 12×1.5 = 66 points).
 
 ---
 
@@ -51,11 +51,11 @@ The prompt was structured in two parts:
 1. To ensure the output was formatted as a list.
 2. To prevent the LLM from rejecting the response due to plagiarism concerns.
 
-Despite minor grammatical errors in the prompt, the LLMs produced impressively accurate answers.
+Despite minor grammatical errors in the prompt (in some of the cases ed , want -> wan), the LLMs produced impressively accurate answers.
 
 ### Data Post-Processing
 
-All responses were manually reviewed and post-processed because:
+An automated code was considered, however, All responses were manually reviewed and post-processed because:
 - The exam comprises only around 40 questions.
 - Manual verification was more efficient than an automated approach.
 - Variations in answer formatting (e.g., "option C" vs. "C") complicated automated parsing.
@@ -74,7 +74,7 @@ Minor discrepancies may exist due to manual processing. Please reach out if you 
     - [ML Chatbot](https://chatgpt.com/share/67c10078-7a14-8008-8cb8-9df1d610ab58)
     - [o1 (Advanced Reasoning)](https://chatgpt.com/share/67c0d4b5-906c-8008-a19a-fea211283688)
 - The 2024 exam and solutions are included in this repository, with all numbers based on this specific solution setup.
-
+- The Deepseek answers since the chat cannot be easily like openAI allows
 ---
 
 **Disclaimer:**  
