@@ -70,7 +70,7 @@ Minor discrepancies may exist due to manual processing. Please reach out if you 
 - Chat logs demonstrating the prompting challenges and answer accuracy are provided:
     - [o3-mini-high](https://chatgpt.com/share/67c1008e-d1c4-8008-a63d-9e961f61b45f)
     - [4 (legacy)](https://chatgpt.com/share/67c10086-ace4-8008-bd6d-0ffaac3a9c8d)
-    - [4o](https://chatgpt.com/share/67c100b1-7430-8008-b832-2df69d8decd8)
+    - [4o](https://chatgpt.com/share/67c10df4-ace0-8008-8ade-5b6acd0e41a8)
     - [ML Chatbot](https://chatgpt.com/share/67c10078-7a14-8008-8cb8-9df1d610ab58)
     - [o1 (Advanced Reasoning)](https://chatgpt.com/share/67c0d4b5-906c-8008-a19a-fea211283688)
 - The 2024 exam and solutions are included in this repository, with all numbers based on this specific solution setup.
